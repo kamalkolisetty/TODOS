@@ -1,0 +1,15 @@
+#root{
+    padding:3rem;
+    font-size: 1.1rem;
+}
+
+#new{
+    
+    margin-left: 2rem;
+    background-color: #F7CD46;
+}
+
+button{
+    padding: 20px;
+    margin-left: 2rem;
+}
