@@ -18,8 +18,8 @@ To get started with the Todo List application, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/todo-list-app.git
-    cd todo-list-app
+    git clone https://github.com/kamalkolisetty/TODOS.git
+    cd todo-list
     ```
 
 2. **Install dependencies:**
