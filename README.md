@@ -1,4 +1,3 @@
-![image](https://github.com/kamalkolisetty/TODOS/assets/120206827/7db9bb39-f3ac-4e42-9b38-b8e11d073046)
 # Todo-List  Application with MARK AS DONE feature
 
 This is a simple Todo List application built with React. It allows users to add, delete, and mark tasks as done. The tasks are persisted in the browser's `localStorage`, so they remain even after refreshing the page.
